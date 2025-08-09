@@ -35,8 +35,8 @@ Apasionado por todo lo relacionado con el **hacking**, la **automatización de t
 ---
 
 ## 🔗 Contacto seguro
-- **ProtonMail:** [correo@protonmail.com](mailto:andres_ghost84@proton.me)
-- **Telegram:** [t.me/TU-USUARIO](https://t.me/JA_ndres)
+- **ProtonMail:** [andres_ghost84@proton.me](mailto:andres_ghost84@proton.me)
+- **Telegram:** [https://t.me/JA_ndres](https://t.me/JA_ndres)
 
 ---
 
