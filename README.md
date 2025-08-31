@@ -11,7 +11,7 @@ Apasionado por todo lo relacionado con el **hacking**, la **automatización de t
 ---
 
 ## 💻 Tecnologías y enfoque
-- Lenguajes: **Python**, **JavaScript**
+- Lenguajes: **Python**
 - Áreas de interés:
   - Hacking y ciberseguridad
   - Automatización de procesos
@@ -23,8 +23,6 @@ Apasionado por todo lo relacionado con el **hacking**, la **automatización de t
 - **[Gestor de contraseñas seguro y moderno](https://github.com/SysXploit-code/ClaveKeeperPro)**  
   Herramienta cifrada para almacenar, gestionar y generar contraseñas de forma local.
   
-- **[MundoMedia](https://mundomedia-e4774.web.app/)**  
-  Plataforma donde comparto libros, cursos, películas/series y más, todo de forma gratuita.
 
 ---
 
@@ -40,4 +38,4 @@ Apasionado por todo lo relacionado con el **hacking**, la **automatización de t
 
 ---
 
-<sub>Este perfil y sus proyectos son un espacio para aprender, compartir y demostrar que el conocimiento es un derecho, no un privilegio.</sub>
+
